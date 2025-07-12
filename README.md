@@ -24,3 +24,14 @@
 git clone https://github.com/yourusername/HexSpy.git
 cd HexSpy
 python3 hexspy.py
+```
+##### ⚙️ Dependencies
+pwntools
+capstone
+Python 3.6+
+
+#### 🧪 Usage
+hexspy 0x7ffff7dd18e0
+hexspy --file shellcode.bin
+hexspy --elf ./ret2win
+hexspy --gdb <PID> <HEX_ADDRESS>
