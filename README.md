@@ -21,7 +21,7 @@
 ### 🔧 From Source (Recommended)
 
 ```bash
-https://github.com/Infin-Nine/HexSpy.git
+git clone https://github.com/Infin-Nine/HexSpy.git
 cd HexSpy
 python3 hexspy.py
 ```
