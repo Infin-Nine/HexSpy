@@ -29,6 +29,9 @@ python3 hexspy.py
 pwntools,
 capstone,
 Python 3.6+
+```
+pip install pwntools capstone
+```
 
 #### 🧪 Usage
 ```
